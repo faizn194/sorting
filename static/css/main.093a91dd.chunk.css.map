@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/index.css"],"names":[],"mappings":"AACA,YACE,WAAY,CACZ,qBAAuB,CACvB,wBACF,CACA,MACA,sBACA","file":"main.093a91dd.chunk.css","sourcesContent":["\ntable, th, td {\n  padding: 5px;\n  border: 1px solid black;\n  border-collapse: collapse;\n}\n.just{\njustify-content: center;\n}"]}
